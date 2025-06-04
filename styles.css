@@ -57,6 +57,14 @@ a:hover {
     z-index: 0; /* Stelle sicher, dass das Bild hinter dem Inhalt liegt */
   }
 
+  .ul_style {
+    max-width: 800px; /* Breite auf 300 Pixel begrenzen */
+    padding: 40px; /* Innenabstand */
+    text-align: left; /* Text zentrieren */
+    font-family: Calibri, sans-serif; /* Schriftart */
+    font-size: 22px;
+  }
+
   .text {
     max-width: 800px; /* Breite auf 300 Pixel begrenzen */
     padding: 20px; /* Innenabstand */
